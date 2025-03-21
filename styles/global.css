@@ -15,7 +15,7 @@
   --text-highlight: #E43A12;
 
   --surface-primary: #FFFFFF;
-  --surface-secundary: #FEE7D6;
+  --surface-secondary: #FEE7D6;
   --surface-disabled: #e7e5e4;
 
   --stroke-default: #D6D3D1;
@@ -26,7 +26,7 @@
 }
 
 body {
-  /* overflow: hidden; */
+  overflow: hidden;
 
   font: var(--text);
   color: var(--text-secondary);
